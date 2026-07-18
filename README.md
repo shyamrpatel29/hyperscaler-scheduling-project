@@ -1,4 +1,4 @@
-# Hyperscaler Scheduling MIP
+# Hyperscaler Scheduling Project
 
 A draw-tower scheduling case: one production line, three hyperscale customers (Meta, NVIDIA, Amazon), each wanting the line dedicated to their spec for the quarter. Only one customer can be loaded at a time, and switching specs costs both money and downtime.
 
@@ -10,7 +10,7 @@ All figures in the case are made up for practice, not real numbers.
 
 ## Contents
 
-- `hyperscaler_scheduling_MIP.ipynb` — model formulation, solve, sensitivity checks, Monte Carlo simulation, and discrete-event simulation
+- `hyperscaler_scheduling_project.ipynb` — model formulation, solve, sensitivity checks, Monte Carlo simulation, and discrete-event simulation
 
 ## Tools
 
